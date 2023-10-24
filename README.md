@@ -24,13 +24,7 @@ User | Bisa membuat Playlist | Agar user bisa memilah dan memilih lagu lagu pili
 
 ## 3. Struktur Data
 
-Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
-
-```mermaid
-erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
-```
+![ERD_Aplikasi_Ourvoice](https://github.com/Breynaputra27/Job-Interview/assets/144639459/3da08b34-b901-4f97-bb27-00fa09eafc04)
 
 ## 4. Arsitektur Sistem
 
