@@ -33,9 +33,9 @@ User | Bisa membuat Playlist | Agar user bisa memilah dan memilih lagu lagu pili
 
 ## 5. Teknologi, Library, dan Framework
 
-Teknologi | Library | Framework
+No | Teknologi | Library | Framework
 ---|---|---|---
-HTML,CSS,JAVASCRIPT| Eventlistener pada javascript untuk melakukan play lagu | Boostrap
+1 | HTML,CSS,Java Script(masih bisa bertambah atau berubah bila ditemukan yang lebih simpel atau lebih bagus | eventlistener untuk melakukan play lagu | Boostrap
 
 ## 6. Desain User Experience dan User Interface
 
