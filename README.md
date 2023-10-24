@@ -16,10 +16,10 @@ suara kan yang tak tersuarakan
 Sebagai | Bisa Melakukan | Sehingga | Prioritas
 ---|---|---|---
 User | Play,pause,skip lagu,murotal atau pun podcast(seperti platform music pada umumnya) | user bisa menikmati konten yang ada pada aplikasi ini | ⭐⭐⭐⭐⭐
----|---|---|---
 User | Bisa membuat akun | Agar user bisa menikmati fitur tambahan selain yang ada pada fitur tanpa login | ⭐⭐⭐⭐⭐
----|---|---|---
 User | Bisa Upload Music,Podcast,Murotal,dan dakwah | Agar user bisa berkarya secara gratis dan user lainnya pun bisa mengapresiasi karya yang di buat oleh user lain | ⭐⭐⭐⭐⭐
+User | Bisa membuat Playlist | Agar user bisa memilah dan memilih lagu lagu pilihannya atau pun membuat playlist yang berisikan murotal al quran | ⭐⭐⭐
+
 
 ## 3. Struktur Data
 
