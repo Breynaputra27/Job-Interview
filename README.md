@@ -8,8 +8,8 @@ bla bla bla
 
 ## 1.3. Branding
 
-Our Voice
-suara kan yang tak tersuarakan
+Our Voice - suara kan yang tak tersuarakan
+Tampilan nya akan bertema kan dark
 
 ## 2. User Story
 
