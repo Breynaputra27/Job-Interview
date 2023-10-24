@@ -4,7 +4,10 @@ Latar belakang dari pembuatan aplikasi saya adalah, untuk membantu menghafal alq
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-bla bla bla
+1. database akan menggunakan Mysql
+2. untuk bahasa sekarang masih menggunakan htmls,css,dan javascript sebagai frontend(tampilan depan) mungkin bisa berubah saat pengembangan
+3. code ediotornya menggunakan visual studio
+4. untuk design menggunakan figma
 
 ## 1.3. Branding
 
@@ -35,7 +38,7 @@ User | Bisa membuat Playlist | Agar user bisa memilah dan memilih lagu lagu pili
 
 No | Teknologi | Library | Framework
 ---|---|---|---
-1 | HTML,CSS,Java Script(masih bisa bertambah atau berubah bila ditemukan yang lebih simpel atau lebih bagus | eventlistener untuk melakukan play lagu | Boostrap
+1 | HTML,CSS,Java Script(masih bisa bertambah atau berubah bila ditemukan yang lebih simpel atau lebih bagus | Bootstrap | Bootstrap
 
 ## 6. Desain User Experience dan User Interface
 
