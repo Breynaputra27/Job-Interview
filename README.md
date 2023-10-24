@@ -15,7 +15,7 @@ suara kan yang tak tersuarakan
 
 Sebagai | Bisa Melakukan | Sehingga | Prioritas
 ---|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
+User | Play,pause,skip lagu,murotal atau pun podcast(seperti platform music pada umumnya) | Bisa user bisa menikmati konten yang ada pada aplikasi ini | ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
