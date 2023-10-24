@@ -39,8 +39,7 @@ No | Teknologi | Library | Framework
 
 ## 6. Desain User Experience dan User Interface
 
-Bisa load image 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
+https://www.figma.com/file/CYHYyzKF9QX0vtmkVQUC7t/spotify-lite?type=design&node-id=0%3A1&mode=design&t=zf3TjQeHMOIfnbHl-1
 
 ## 7. Demonstrasi Video
 
