@@ -28,11 +28,14 @@ User | Bisa membuat Playlist | Agar user bisa memilah dan memilih lagu lagu pili
 
 ## 4. Arsitektur Sistem
 
-Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
+![Beige Colorful Minimal Flowchart Infographic Graph](https://github.com/Breynaputra27/Job-Interview/assets/144639459/a7863792-661d-405d-87df-b1f68ec99611)
+
 
 ## 5. Teknologi, Library, dan Framework
 
-bla bla bla
+Teknologi | Library | Framework
+---|---|---|---
+HTML,CSS,JAVASCRIPT| Eventlistener pada javascript untuk melakukan play lagu | Boostrap
 
 ## 6. Desain User Experience dan User Interface
 
