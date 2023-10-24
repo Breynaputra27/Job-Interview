@@ -13,7 +13,7 @@ suara kan yang tak tersuarakan
 
 ## 2. User Story
 
-bla | bla | bla | bla
+Sebagai | Bisa Melakukan | Sehingga | Prioritas
 ---|---|---|---
 bla | bla | bla | ⭐⭐⭐⭐⭐
 
