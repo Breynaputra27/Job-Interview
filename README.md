@@ -8,8 +8,9 @@ bla bla bla
 
 ## 1.3. Branding
 
-Our Voice - suara kan yang tak tersuarakan
-Tampilan nya akan bertema kan dark
+Merk | Tagline | User Experience | Target User
+---|---|---|---
+Our Voice| Suarakan Yang Tak Tersuarakan | Bertemakan Gelap/Dark, easy to use, enak di lihat mata dan rapih | Semua kalangan usia,khusus nya pada remaja yang beranjak dewasa usia 17-23 tahun
 
 ## 2. User Story
 
