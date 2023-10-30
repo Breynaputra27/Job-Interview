@@ -13,7 +13,7 @@ Latar belakang dari pembuatan aplikasi saya adalah, untuk membantu menghafal alq
 
 Merk | Tagline | User Experience | Target User
 ---|---|---|---
-Our Voice| Suarakan Yang Tak Tersuarakan | Bertemakan Gelap/Dark, easy to use, enak di lihat mata dan rapih | Semua kalangan usia,khusus nya pada remaja yang beranjak dewasa usia 17-23 tahun
+Our Voice| Suarakan Yang Tak Tersuarakan | easy to use, enak di lihat mata dan rapih | Semua kalangan usia,khusus nya pada remaja yang beranjak dewasa usia 17 tahun dan seterusnya
 
 ## 2. User Story
 
@@ -38,7 +38,7 @@ User | Bisa membuat Playlist | Agar user bisa memilah dan memilih lagu lagu pili
 
 No | Teknologi | Library | Framework
 ---|---|---|---
-1 | HTML,CSS,Java Script(masih bisa bertambah atau berubah bila ditemukan yang lebih simpel atau lebih bagus | Bootstrap | Bootstrap
+1 | Java | Library jaco untuk play audio | Java Netbeans
 
 ## 6. Desain User Experience dan User Interface
 
