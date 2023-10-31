@@ -5,8 +5,8 @@ Latar belakang dari pembuatan aplikasi saya adalah, untuk membantu menghafal alq
 ## 1.2. Deksripsi Teknologi Informasi
 
 1. database akan menggunakan Mysql
-2. untuk bahasa sekarang masih menggunakan htmls,css,dan javascript sebagai frontend(tampilan depan) mungkin bisa berubah saat pengembangan
-3. code ediotornya menggunakan visual studio
+2. untuk bahasa saya menggunakan java netbeans
+3. code ediotornya menggunakan netbeans ide
 4. untuk design menggunakan figma
 
 ## 1.3. Branding
