@@ -23,6 +23,7 @@ User | Play,pause,skip lagu,murotal atau pun podcast(seperti platform music pada
 User | Bisa membuat akun | Agar user bisa menikmati fitur tambahan selain yang ada pada fitur tanpa login | ⭐⭐⭐⭐⭐
 User | Bisa Upload Music,Podcast,Murotal,dan dakwah | Agar user bisa berkarya secara gratis dan user lainnya pun bisa mengapresiasi karya yang di buat oleh user lain | ⭐⭐⭐⭐⭐
 User | Bisa membuat Playlist | Agar user bisa memilah dan memilih lagu lagu pilihannya atau pun membuat playlist yang berisikan murotal al quran | ⭐⭐⭐
+Admin | Menambah Navbar/Banner lagu hits atau konten yang sedang ramai di dengar | Agar user punya rekomendasi konten | ⭐⭐⭐⭐
 
 
 ## 3. Struktur Data
@@ -38,7 +39,7 @@ User | Bisa membuat Playlist | Agar user bisa memilah dan memilih lagu lagu pili
 
 No | Teknologi | Library | Framework
 ---|---|---|---
-1 | Java | Library jaco untuk play audio | Java Netbeans
+1 | Java | Library jaco untuk play audio | 
 
 ## 6. Desain User Experience dan User Interface
 
