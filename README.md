@@ -24,6 +24,8 @@ User | Bisa membuat akun | Agar user bisa menikmati fitur tambahan selain yang a
 User | Bisa Upload Music,Podcast,Murotal,dan dakwah | Agar user bisa berkarya secara gratis dan user lainnya pun bisa mengapresiasi karya yang di buat oleh user lain | ⭐⭐⭐⭐⭐
 User | Bisa membuat Playlist | Agar user bisa memilah dan memilih lagu lagu pilihannya atau pun membuat playlist yang berisikan murotal al quran | ⭐⭐⭐
 Admin | Menambah Navbar/Banner lagu hits atau konten yang sedang ramai di dengar | Agar user punya rekomendasi konten | ⭐⭐⭐⭐
+User | Bisa Melakukan Bug Report | Agar menjaga kenyamanan user dan agar admin tahu apa yang harus di perbaiki | ⭐⭐⭐⭐
+User | Bisa Melakukan Pemberian Kritik Dan Saran | Supaya Admin Bisa Lebih Berinovasi | ⭐⭐⭐
 
 
 ## 3. Struktur Data
@@ -47,7 +49,7 @@ https://www.figma.com/file/CYHYyzKF9QX0vtmkVQUC7t/spotify-lite?type=design&node-
 
 ## 7. Demonstrasi Video
 
-Link youtube nya
+[Link youtube nya](https://youtu.be/loa18NPj1mE?si=hP5SVondGJ56jaX1)
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 
