@@ -15,6 +15,13 @@ Merk | Tagline | User Experience | Target User
 ---|---|---|---
 Our Voice| Suarakan Yang Tak Tersuarakan | easy to use, enak di lihat mata dan rapih | Semua kalangan usia,khusus nya pada remaja yang beranjak dewasa usia 17 tahun dan seterusnya
 
+inspirasi design
+![Inspirasi1](https://github.com/Breynaputra27/Job-Interview/assets/144639459/48683349-c884-4dac-ba92-1addb9314fe7)
+![inspirasi2](https://github.com/Breynaputra27/Job-Interview/assets/144639459/91a20f40-d51a-42e3-abbe-903976de9e52)
+![inspirasi3](https://github.com/Breynaputra27/Job-Interview/assets/144639459/d2b26e61-8a05-4921-8578-42c5343c84ad)
+![inspirasi4](https://github.com/Breynaputra27/Job-Interview/assets/144639459/fc61f6fb-90c0-4a16-8cd2-2ac84f3b8172)
+
+
 ## 2. User Story
 
 Sebagai | Bisa Melakukan | Sehingga | Prioritas
