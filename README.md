@@ -70,7 +70,7 @@ Link youtube nya di detik jawaban ini
 
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
+(https://youtu.be/ktrHEGKg540?si=uIbTKw6dOyoLyI0w)
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
 
