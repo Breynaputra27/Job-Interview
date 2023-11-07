@@ -45,7 +45,7 @@ Admin | Bisa Menanmbahkan Playlist Pada Aplikasinya | User Memiliki variasi Play
 
 ```mermaid
 flowchart TD
-    id1[(Database: MySQL)] <--> id2[Aplikasi Web Backend: Laravel] <--> id3[Web Server: Laravel]  
+    id1[(Database: MySQL)] <--> id2[Aplikasi Web Backend: Flutter] <--> id3[Web Server: Flutter]  
 ```
 
 ## 5. Teknologi, Library, dan Framework
