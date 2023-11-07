@@ -34,6 +34,7 @@ User | Bisa membuat Playlist | Agar user bisa memilah dan memilih lagu lagu pili
 Admin | Menambah Navbar/Banner lagu hits atau konten yang sedang ramai di dengar | Agar user punya rekomendasi konten | ⭐⭐⭐⭐
 User | Bisa Melakukan Bug Report | Agar menjaga kenyamanan user dan agar admin tahu apa yang harus di perbaiki | ⭐⭐⭐⭐
 User | Bisa Melakukan Pemberian Kritik Dan Saran | Supaya Admin Bisa Lebih Berinovasi | ⭐⭐⭐
+Admin | Bisa Menanmbahkan Playlist Pada Aplikasinya | User Memiliki variasi Playlist baru tanpa harus mencari lagunya secara satu per  satu | ⭐⭐⭐⭐
 
 
 ## 3. Struktur Data
