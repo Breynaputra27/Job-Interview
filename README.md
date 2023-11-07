@@ -44,7 +44,9 @@ Admin | Bisa Menanmbahkan Playlist Pada Aplikasinya | User Memiliki variasi Play
 ## 4. Arsitektur Sistem
 
 flowchart TD
+  flowchart TD
     id1[(Database: MySQL)] <--> id2[Aplikasi Web Backend: Laravel] <--> id3[Web Server: Laravel]  
+
 
 
 ## 5. Teknologi, Library, dan Framework
