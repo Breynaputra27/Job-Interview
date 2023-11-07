@@ -64,16 +64,16 @@ https://www.figma.com/file/CYHYyzKF9QX0vtmkVQUC7t/spotify-lite?type=design&node-
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
+[Link youtube nya di detik jawaban ini](https://youtu.be/hAGvbc34n3M?si=thRix0EEJeADAc5x)
 
 ## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
+https://youtu.be/qO6TfuBHGeg?si=W1E8YaY7SsjMVr3i
 
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
 
-(https://youtu.be/ktrHEGKg540?si=uIbTKw6dOyoLyI0w)
+https://youtu.be/ktrHEGKg540?si=XVhoO_CKMtCO5_p8
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
+https://youtu.be/ld7p87wTTSI?si=0o98PIkPBKNBytfR
