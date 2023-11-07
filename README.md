@@ -43,7 +43,8 @@ Admin | Bisa Menanmbahkan Playlist Pada Aplikasinya | User Memiliki variasi Play
 
 ## 4. Arsitektur Sistem
 
-![Beige Colorful Minimal Flowchart Infographic Graph](https://github.com/Breynaputra27/Job-Interview/assets/144639459/a7863792-661d-405d-87df-b1f68ec99611)
+flowchart TD
+    id1[(Database: MySQL)] <--> id2[Aplikasi Web Backend: Laravel] <--> id3[Web Server: Laravel]  
 
 
 ## 5. Teknologi, Library, dan Framework
